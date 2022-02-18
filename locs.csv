@@ -1,0 +1,76 @@
+id;name;stock;lat;lon;select
+35432326;Eiche, Ehrenpfortenberg; MP;52.409555;12.983906;1
+35442254;Potsdam, Drachenhaus;;52.404405;13.024878;1
+35432600;Golm, ca. 1 km nördlich;;52.417704;12.968078;1
+35442256;Potsdam, Orangerie;;52.406874;13.028701;1
+35442250;Bornstedt, Eichenallee;OP;52.408920;13.027767;1
+35442251;Bornstedt, Eichenallee;UP;52.408920;13.027767;0
+35442253;Potsdam, Voltaireweg;;52.404857;13.041715;1
+35442314;Bornim, Lerchenst./Kreuz.Schneiderweg;OP;52.435012;13.015919;1
+35442315;Bornim, Lerchenst./Kreuz.Schneiderweg;UP;52.435012;13.015919;0
+35442240;Potsdam, Gr. Weinmeister Str.;UF;52.416387;13.063685;1
+35442200;Potsdam, Nauener Tor;;52.404113;13.059166;1
+36442210;Potsdam, W.-Staab-Str.7-9;;52.398373;13.054923;1
+36442206;Potsdam, Am Alten Markt 8;;52.396076;13.061485;1
+35442203;Potsdam, Charlottenstr. 46;;52.399997;13.059628;1
+36441990;Pdm.-Bbg., nahe Oberlinhaus;UF;52.392886;13.087184;1
+36441989;Pdm.-Bbg., Goetheplatz;UF;52.396226;13.102488;1
+36441970;Potsdam, Str. Unter d. Eichen;OP;52.372742;13.095354;1
+36441971;Potsdam, Str. Unter d. Eichen;MP;52.372742;13.095354;0
+36441972;Potsdam, Str. Unter d. Eichen;UP;52.372742;13.095354;0
+36441991;Potsdam, Zum Kahleberg 99;;52.365688;13.084149;1
+36441981;Pdm.-Bbg., Wohngebiet Drewitz;;52.369442;13.147148;1
+36441968;Pdm.-Bbg.,ehem.AB Auff. R.Bln.;;52.381673;13.149163;1
+36441946;Philippsthal,Str.Nudow-Drewitz;;52.341271;13.158706;1
+36441950;Bergholz-Rehbr.,WG -Am Rehgr.-;;52.350443;13.097716;1
+36441951;Bergholz-Rehbrücke.,Weerthstr.;UF;52.344193;13.104437;1
+36441897;Caputh, Sportpl. Michend. Ch.;UF;52.345320;13.005910;1
+36441820;Potsdam, Nesselgrund, Eisenbahnbrücke;OP;52.354691;13.042250;1
+36441821;Potsdam, Nesselgrund, Eisenbahnbrücke;MP;52.354691;13.042250;0
+36441822;Potsdam, Nesselgrund, Eisenbahnbrücke;UP;52.354691;13.042250;0
+36432263;Wildpark-West, Str. -Am Ufer-;OP;52.391714;12.945680;0
+36432264;Wildpark-West, Str. -Am Ufer-;UP;52.391714;12.945680;0
+36432280;Geltow, Am Pappeltor;OP;52.365946;12.965963;1
+36432281;Geltow, Am Pappeltor;UP;52.365946;12.965963;0
+36451938;Ahrensdorf,1.5 km nördl.;UP;52.328156;13.199636;1
+36451939;Ahrensdorf,1.5 km nördl.;OP;52.328156;13.199636;0
+37441878;Wildenbruch, ca. 1.2 km nordwest;;52.292616;13.05317;1
+36441936;Saarmund, Str. n. Langerwisch;;52.317026;13.114547;1
+36441944;Langerwisch, Umgehungsstraße;UF;52.315667;13.046410;1
+36441930;Michendorf, westl. Bhf.;OP;52.317283;13.022511;1
+36441931;Michendorf, westl. Bhf.;MP;52.317283;13.022511;0
+36441932;Michendorf, westl. Bhf.;UP;52.317283;13.022511;0
+36441980;Wilhelmshorst, Michendorfer Platz;;52.329177;13.056499;1
+36441860;Wilhelmshorst, westl. Hubertus-/Forstweg;OP;52.333536;13.046034;1
+36441861;Wilhelmshorst, westl. Hubertus-/Forstweg;MP1;52.333536;13.046034;0
+36441862;Wilhelmshorst, westl. Hubertus-/Forstweg;MP2;52.333536;13.046034;0
+36441863;Wilhelmshorst, westl. Hubertus-/Forstweg;UP;52.333536;13.046034;0
+37441852;Michendorf, Bergheide;;52.293376;13.023165;1
+37441880;Wildenbruch;;52.283674;13.060544;1
+37431851;Neuseddin, südwestl. Ortseingang, im Wald;;52.284289;12.991960;1
+37441853;Seddin;;52.267277;13.013247;1
+37441882;Tremsdorf, Saarmund.Rohrwiesen;;52.285224;13.125340;1
+37451300;Gröben, Str. nach Fahlhorst;;52.293448;13.168105;1
+36451956;Stahnsdorf, Hildegardstraße;UP;52.373697;13.213324;0
+35442309;Bornim, Königsdamm;OP;52.441665;13.023124;1
+35442310;Bornim, Königsdamm;UP;52.441665;13.023124;1
+35442304;Nedlitz, Lerchensteig 14;OP;52.436677;13.041061;1
+35442305;Nedlitz, Lerchensteig 14;UP;52.436677;13.041061;1
+35442166;Sacrow,Bushaltest.z.FH Zedlitz;;52.438053;13.078899;1
+35442150;Gr. Glienicke,Str. Am Fenn;OP;52.465318;13.099147;1
+35432590;Marquardt, an der AB Bln.-Ring;;52.473450;12.952848;1
+35459954;Kleinmachnow, Stahnsdorfer Damm;;52.405199;13.198879;1
+36459946;Teltow-Gewerbegebiet;;52.397197;13.235834;1
+35459953;Kleinmachnow, Stammbahn;;52.420436;13.224200;1
+35459952;Kleinmachnow, Zehlendorfer Damm;;52.414668;13.242548;1
+36451317;Neu-Beeren, Str.Neu-B.-Ruhlsd.;;52.358917;13.269022;1
+36451922;Sputendorf,nördl. Struveshof;;52.330619;13.228211;1
+37431649;Beelitz-Heilstätt.,1.5km östl. Bhf;;52.264667;12.948940;0
+35442335;Fahrland,ca.500 m südwestl.Gut;;52.461011;13.005771;1
+36432280;Geltow, Am Pappeltor;OP;52.365671;12.966061;1
+36432281;Geltow, Am Pappeltor;UP;52.365671;12.966061;0
+35442123;Seeburg, ca. 1,2 km südl.;;52.495665;13.123412;1
+36441987;Pdm.-Bbg., Dianapark;OP;52.388155;13.122832;1
+36441988;Pdm.-Bbg., Dianapark;UP;52.388155;13.122832;0
+36441976;Potsdam, Neuendorf.-/Schnellstr;;52.371635;13.128880;1
+
